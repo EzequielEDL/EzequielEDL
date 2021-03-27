@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [notyet.com](notyet.com)
 
-<h3 align="left" style="color:red;">Connect with me:</h3>
+<h3 align="left" style="color:blue;">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/im_edl/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/im_edl/" height="30" width="40" /></a>
