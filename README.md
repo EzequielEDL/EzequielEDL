@@ -7,8 +7,8 @@
 </p>
 <p float="center">
 <h1 align="center">Hey <a href="#" ><img src="https://media.giphy.com/media/5hmgfdvimPl5NjTUU6/giphy.gif" width="50" /></a>i'm Eze, you can find me too in
-  <a href="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" height="30" width="40" /></a>
-  <a href="https://www.behance.net/esequieldelgado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="https://www.behance.net/esequieldelgado" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" target="blank"><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616987808/GitHub%20Profile/linkedin_xtd2sa.svg" alt="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" height="30" width="40" /></a>
+  <a href="https://www.behance.net/esequieldelgado" target="blank"><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616987808/GitHub%20Profile/behance_r3lpoe.svg" alt="https://www.behance.net/esequieldelgado" height="30" width="40" /></a>
   <a href="https://www.instagram.com/im_edl/" target="blank"><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616987808/GitHub%20Profile/instagram_hfy47c.svg" height="30" width="40" /></a>
 </h1>
 
