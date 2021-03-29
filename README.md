@@ -36,7 +36,7 @@
   
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
 
-<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Inro - Wallet Virtual</a>
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Inro - Wallet Virtual [![NPM Version][npm-image]][npm-url]</a>
   
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
 
@@ -49,11 +49,6 @@
 
 
 <!-- Markdown link & img dfn's -->
-[linkedin]: https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/
-[behance]: https://www.behance.net/esequieldelgado"
-[instagram]:
-[portfolio]: notyet.com
-
 
 [npm-url]: https://npmjs.org/package/datadog-metrics
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
