@@ -30,4 +30,7 @@
 
 <h3 align="left">Projects:</h3>
 
-- <p>You can see my portfolio here [notyet.com](notyet.com)</p> <a href="#" ><img src="https://media.giphy.com/media/8F3ydhGtokLnZp55yZ/giphy.gif" width="20" /></a>
+- <p>Atlas E-commerce</p>
+- <p>Inro - Wallet virtual</p>
+- <p>Weather app</p>
+- <p>Simple flask app</p>
