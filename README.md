@@ -30,7 +30,7 @@
 
 <h3 align="left">Projects:</h3>
 
-- <p>Atlas E-commerce</p>
+- <p>Atlas - E-commerce</p>
 - <p>Inro - Wallet virtual</p>
 - <p>Weather app</p>
 - <p>Simple flask app</p>
@@ -39,5 +39,13 @@
 <p align="left">
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Atlas E-commerce</a>
   
-<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990144/GitHub%20Profile/line_lalsqe.svg" height="100" width="30" /></a>
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990712/GitHub%20Profile/line_kbfbhc.svg" height="100" width="30" /></a>
+
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Inro - Wallet Virtual</a>
+  
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990712/GitHub%20Profile/line_kbfbhc.svg" height="100" width="30" /></a>
+
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Weather app</a>
+  
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990712/GitHub%20Profile/line_kbfbhc.svg" height="100" width="30" /></a>
 
