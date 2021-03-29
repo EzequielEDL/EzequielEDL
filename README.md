@@ -1,9 +1,9 @@
 <p float="left">
-  <a href="#" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" ></a>
-  <a href="#" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" ></a>
-  <a href="#" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" ></a>
-  <a href="#" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" ></a>
-  <a href="#" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" ></a>
+  <a href="#" ><img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" /></a>
+  <a href="#" ><img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" /></a>
+  <a href="#" ><img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" /></a>
+  <a href="#" ><img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" /></a>
+  <a href="#" ><img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" /></a>
 </p>
 <p float="center">
 <h1 align="center">Hey <img src="https://media.giphy.com/media/5hmgfdvimPl5NjTUU6/giphy.gif" width="50" />i'm Eze, you can find me in
