@@ -39,5 +39,5 @@
 <p align="left">
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616988831/GitHub%20Profile/point_stjrju.svg" height="20" width="30" />Atlas E-commerce</a>
   
-<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616989565/GitHub%20Profile/line_h9w4oh.svg" height="100" width="30" /></a>
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990144/GitHub%20Profile/line_lalsqe.svg" height="100" width="30" /></a>
 
