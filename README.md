@@ -1,3 +1,10 @@
+<p float="left">
+  <img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" />
+</p>
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/5hmgfdvimPl5NjTUU6/giphy.gif" width="50" />, I'm Eze</h1>
 
@@ -10,14 +17,6 @@
 <a href="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/im_edl/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/im_edl/" height="30" width="40" /></a>
 <a href="https://www.behance.net/esequieldelgado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="https://www.behance.net/esequieldelgado" height="30" width="40" /></a>
-</p>
-
-<p float="left">
-  <img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" />
-  <img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" />
-  <img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" />
-  <img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" />
-  
 </p>
 
 <p float="left">
