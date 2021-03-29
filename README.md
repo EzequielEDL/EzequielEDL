@@ -37,18 +37,15 @@
   
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
 
-
-<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Inro - Wallet Virtual</a>
-
-simple-manage-orders
+<a href="https://github.com/EzequielEDL/inro-wallet-virtual/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Inro - Wallet Virtual</a>
 
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
 
-<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Weather app</a>
+<a href="https://github.com/EzequielEDL/weather-app/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Weather app</a>
 ![GitHub top language](https://img.shields.io/github/languages/top/EzequielEDL/weather-app?style=flat-square)
 
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
-<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1617010621/GitHub%20Profile/weather-app_bexowt.gif" width="500" /></a>
+<a href="https://ezequieledl.github.io/weather-app/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1617010621/GitHub%20Profile/weather-app_bexowt.gif" width="500" /></a>
 
-<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Simple web app for manage orders </a>
+<a href="https://github.com/EzequielEDL/simple-manage-orders/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Simple web app for manage orders </a>
 ![GitHub top language](https://img.shields.io/github/languages/top/EzequielEDL/simple-manage-orders?style=flat-square)
