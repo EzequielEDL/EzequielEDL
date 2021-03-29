@@ -1,8 +1,6 @@
 
 <h1 align="center">Hey <img src="https://media.giphy.com/media/5hmgfdvimPl5NjTUU6/giphy.gif" width="50" />, I'm Eze</h1>
 
-<img src="https://media.giphy.com/media/TI3jmXzp48NEyXiY1X/giphy.gif" width="50" />
-
 <h3 align="center">I am full stack developer, proactive person, committed to what I propose myself for the motivation of always learning new technologies and / or fields related to technologies.</h3>
 
 - <img src="https://media.giphy.com/media/Ieo88333eatH73xKQG/giphy.gif" width="50" /> All of my projects are available at [notyet.com](notyet.com)
@@ -15,10 +13,10 @@
 </p>
 
 <p float="left">
-  <img src="https://media.giphy.com/media/RkDZq0dhhYHhxdFrJB/giphy.gif" width="150" />
-  
-  
-  
+  <img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" />
   
 </p>
 
