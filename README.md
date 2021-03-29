@@ -33,9 +33,10 @@
 <h3 align="left">Repositories:</h3>
 <p align="left">
 <a href="https://github.com/EzequielEDL/atlas-e-commerce" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Atlas E-commerce</a>
+  [GitHub top language](https://img.shields.io/github/languages/top/EzequielEDL/atlas-e-commerce?style=flat-square)
   
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
-![GitHub top language](https://img.shields.io/github/languages/top/EzequielEDL/atlas-e-commerce?style=flat-square)
+
 
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Inro - Wallet Virtual</a>
 
@@ -44,8 +45,9 @@ simple-manage-orders
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
 
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Weather app</a>
-  
-<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
 
-<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Simple web app for manage orders</a>
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1617010621/GitHub%20Profile/weather-app_bexowt.gif" width="30" /></a>
+
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Simple web app for manage orders </a>
 ![GitHub top language](https://img.shields.io/github/languages/top/EzequielEDL/simple-manage-orders?style=flat-square)
