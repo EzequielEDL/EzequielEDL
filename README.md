@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey 👋🏻, I'm Eze <img src="<img src="https://media.giphy.com/media/Ieo88333eatH73xKQG/giphy.gif" width="30" />" width="50" /></h1>
+<h1 align="center">Hey 👋🏻, I'm Eze <img src="<img src="https://media.giphy.com/media/5hmgfdvimPl5NjTUU6/giphy.gif" width="30" />" width="50" /></h1>
 
 <img src="https://media.giphy.com/media/TI3jmXzp48NEyXiY1X/giphy.gif" width="50" />
 
