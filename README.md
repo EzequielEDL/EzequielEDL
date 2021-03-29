@@ -1,4 +1,7 @@
-<h1 align="center">Hey 👋🏻, I'm Eze</h1>
+
+<h1 align="center">Hey 👋🏻, I'm Eze <img src="https://media.giphy.com/media/TI3jmXzp48NEyXiY1X/giphy.gif" width="150" /></h1>
+
+
 <h3 align="center">I am full stack developer, proactive person, committed to what I propose myself for the motivation of always learning new technologies and / or fields related to technologies.</h3>
 
 - 👨‍💻 All of my projects are available at [notyet.com](notyet.com)
