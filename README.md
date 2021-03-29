@@ -12,7 +12,7 @@
 
 <p float="left">
   <img src="https://media.giphy.com/media/RkDZq0dhhYHhxdFrJB/giphy.gif" width="150" />
-  <img src="https://media.giphy.com/media/RkDZq0dhhYHhxdFrJB/giphy.gif" width="150" />
+  <img src="https://33.media.tumblr.com/tumblr_m6z9jmNuuq1ra42tbo1_500.gif" width="150" />
 </p>
 
 <p float="left">
