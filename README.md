@@ -17,7 +17,7 @@
 
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />You can see my portfolio here [notyet.com](notyet.com) <a href="#" ><img src="https://media.giphy.com/media/8F3ydhGtokLnZp55yZ/giphy.gif" width="20" /></a></a>
 
-![Eze's github stats](https://github-readme-stats.vercel.app/api?username=EzequielEDL&show_icons=true&count_private=true&bg_color=#0D1117)
+![Eze's github stats](https://github-readme-stats.vercel.app/api?username=EzequielEDL&show_icons=true&count_private=true&bg_color=0D1117&icon_color=56D364&title_color=56D364&text_color=C9D1D9)
 
 <h3 align="left">Languages and Tools:</h3>
 
