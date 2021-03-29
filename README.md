@@ -8,15 +8,15 @@
 <p float="center">
 
 <h1 align="center">Hey<a href="#" ><img align="center" src="https://media.giphy.com/media/5hmgfdvimPl5NjTUU6/giphy.gif" width="50" /></a>i'm Eze, you can find me too in
-  <a href="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" target="blank"><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616988077/GitHub%20Profile/linkedin_rwayfd.svg" alt="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" height="30" width="40" /></a>
-  <a href="https://www.behance.net/esequieldelgado" target="blank"><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616987982/GitHub%20Profile/behance_digfkg.svg" alt="https://www.behance.net/esequieldelgado" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" target="blank"><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616988077/GitHub%20Profile/linkedin_rwayfd.svg" alt="[link-linkedin]" height="30" width="40" /></a>
+  <a href="[behance] target="blank"><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616987982/GitHub%20Profile/behance_digfkg.svg" alt="https://www.behance.net/esequieldelgado" height="30" width="40" /></a>
   <a href="https://www.instagram.com/im_edl/" target="blank"><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616987808/GitHub%20Profile/instagram_hfy47c.svg" height="30" width="40" /></a>
 </h1>
 
 </p>
 <h3 align="center">I am full stack developer, proactive person, committed to what I propose myself for the motivation of always learning new technologies and / or fields related to technologies.</h3>
 
-<a href="#" ><img align="center" src="https://media.giphy.com/media/3HG7JCV0QSVxWYzPAT/giphy.gif" width="40" /> You can see my portfolio here [notyet.com](notyet.com)</a>
+<a href="[portfolio]" ><img align="center" src="https://media.giphy.com/media/3HG7JCV0QSVxWYzPAT/giphy.gif" width="40" /> You can see my portfolio here</a>
 
 ![Eze's github stats](https://github-readme-stats.vercel.app/api?username=EzequielEDL&show_icons=true&count_private=true&bg_color=13201D&icon_color=56D364&title_color=56D364&text_color=C9D1D9&hide_border=true&border_radius=16)
 
@@ -46,3 +46,17 @@
 
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" /></a>
 
+
+
+<!-- Markdown link & img dfn's -->
+[linkedin]: https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/
+[behance]: https://www.behance.net/esequieldelgado"
+[instagram]:
+[portfolio]: notyet.com
+
+
+[npm-url]: https://npmjs.org/package/datadog-metrics
+[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
+[wiki]: https://github.com/yourname/yourproject/wiki
