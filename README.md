@@ -7,9 +7,9 @@
 </p>
 <p float="center">
 <h1 align="center">Hey <img src="https://media.giphy.com/media/5hmgfdvimPl5NjTUU6/giphy.gif" width="50" />i'm Eze, you can find me in
-  <a href="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" height="40" width="50" /></a>
-  <a href="https://www.behance.net/esequieldelgado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="https://www.behance.net/esequieldelgado" height="40" width="50" /></a>
-  <a href="https://www.instagram.com/im_edl/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/im_edl/" height="40" width="50" /></a>
+  <a href="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" height="30" width="40" /></a>
+  <a href="https://www.behance.net/esequieldelgado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="https://www.behance.net/esequieldelgado" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/im_edl/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/im_edl/" height="30" width="40" /></a>
 </h1>
 
 </p>
