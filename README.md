@@ -1,4 +1,4 @@
-<p float="left">
+<p float="center">
   <a href="#" ><img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" /></a>
   <a href="#" ><img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" /></a>
   <a href="#" ><img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" /></a>
