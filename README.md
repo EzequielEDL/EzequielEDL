@@ -1,6 +1,7 @@
 
-<h1 align="center">Hey 👋🏻, I'm Eze <img src="https://media.giphy.com/media/TI3jmXzp48NEyXiY1X/giphy.gif" width="50" /></h1>
+<h1 align="center">Hey 👋🏻, I'm Eze <img src="https://media.giphy.com/media/LPkczVwUYcMbXsRCdP/giphy.gif" width="50" /></h1>
 
+<img src="https://media.giphy.com/media/TI3jmXzp48NEyXiY1X/giphy.gif" width="50" />
 
 <h3 align="center">I am full stack developer, proactive person, committed to what I propose myself for the motivation of always learning new technologies and / or fields related to technologies.</h3>
 
@@ -26,7 +27,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://media.giphy.com/media/RkDZq0dhhYHhxdFrJB/giphy.gif" width="150" />
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
