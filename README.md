@@ -37,7 +37,7 @@
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
 
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Inro - Wallet Virtual</a>
-[![NPM Version][npm-image]][npm-url]
+[![NPM Version][npm-image]][https://shields.io/github/languages/top/EzequielEDL/atlas-e-commerce]
   
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
 
