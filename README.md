@@ -39,7 +39,7 @@
 <p align="left">
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Atlas E-commerce</a>
   
-<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990712/GitHub%20Profile/line_kbfbhc.svg" height="100" width="30" /></a>
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616991302/GitHub%20Profile/line_tpqi60.svg" height="100" width="30" /></a>
 
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Inro - Wallet Virtual</a>
   
