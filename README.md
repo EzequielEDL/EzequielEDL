@@ -14,8 +14,8 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" height="40" width="50" /></a>
-<a href="https://www.instagram.com/im_edl/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/im_edl/" height="40" width="50" /></a>
 <a href="https://www.behance.net/esequieldelgado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="https://www.behance.net/esequieldelgado" height="40" width="50" /></a>
+<a href="https://www.instagram.com/im_edl/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/im_edl/" height="40" width="50" /></a>
 </p>
 
 <p float="left">
