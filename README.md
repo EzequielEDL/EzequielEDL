@@ -6,16 +6,18 @@
   <img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" />
 </p>
 
-<h1 align="center">Hey <img src="https://media.giphy.com/media/5hmgfdvimPl5NjTUU6/giphy.gif" width="50" />, I'm Eze</h1>
+<h1 align="center">Hey <img src="https://media.giphy.com/media/5hmgfdvimPl5NjTUU6/giphy.gif" width="50" />, I'm Eze <h2>you can find me in </h2>
+  <a href="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-    icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" height="40" width="50" /></a>
+  <a href="https://www.behance.net/esequieldelgado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg"  alt="https://www.behance.net/esequieldelgado" height="40" width="50" /></a>
+  <a href="https://www.instagram.com/im_edl/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  alt="https://www.instagram.com/im_edl/" height="40" width="50" /></a>
+</h1>
 
 <h3 align="center">I am full stack developer, proactive person, committed to what I propose myself for the motivation of always learning new technologies and / or fields related to technologies.</h3>
 
 - You can see my portfolio here [notyet.com](notyet.com) <img src="https://media.giphy.com/media/8F3ydhGtokLnZp55yZ/giphy.gif" width="20" />
 
 <p align="center">
-<a href="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" height="40" width="50" /></a>
-<a href="https://www.behance.net/esequieldelgado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="https://www.behance.net/esequieldelgado" height="40" width="50" /></a>
-<a href="https://www.instagram.com/im_edl/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/im_edl/" height="40" width="50" /></a>
+
 </p>
 
 <p float="left">
