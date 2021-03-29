@@ -34,3 +34,6 @@
 - <p>Inro - Wallet virtual</p>
 - <p>Weather app</p>
 - <p>Simple flask app</p>
+
+<h3 align="left">Repositories:</h3>
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616988831/GitHub%20Profile/point_stjrju.svg" height="30" width="40" /></a>
