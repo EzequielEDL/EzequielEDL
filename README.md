@@ -37,5 +37,11 @@
 
 <h3 align="left">Repositories:</h3>
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616988831/GitHub%20Profile/point_stjrju.svg" height="20" width="30" /> ~~this~~</a>
-> ahre
-~~this~~
+
+
+<p>
+  As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+</p>
