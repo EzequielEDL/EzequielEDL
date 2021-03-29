@@ -16,7 +16,7 @@
 </p>
 <h3 align="center">I am full stack developer, proactive person, committed to what I propose myself for the motivation of always learning new technologies and / or fields related to technologies.</h3>
 
-<a href="#" ><img align="center" src="https://media.giphy.com/media/3HG7JCV0QSVxWYzPAT/giphy.gif" height="20" width="30" />You can see my portfolio here [notyet.com](notyet.com) </a>
+<a href="#" ><img align="center" src="https://media.giphy.com/media/3HG7JCV0QSVxWYzPAT/giphy.gif" width="30" />You can see my portfolio here [notyet.com](notyet.com)</a>
 
 ![Eze's github stats](https://github-readme-stats.vercel.app/api?username=EzequielEDL&show_icons=true&count_private=true&bg_color=13201D&icon_color=56D364&title_color=56D364&text_color=C9D1D9&hide_border=true&border_radius=16)
 
