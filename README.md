@@ -10,7 +10,7 @@
 
 <h3 align="center">I am full stack developer, proactive person, committed to what I propose myself for the motivation of always learning new technologies and / or fields related to technologies.</h3>
 
-- <img src="https://media.giphy.com/media/Ieo88333eatH73xKQG/giphy.gif" width="50" /> All of my projects are available at [notyet.com](notyet.com)
+- <img src="https://media.giphy.com/media/8F3ydhGtokLnZp55yZ/giphy.gif" width="50" /> You can see my portfolio here [notyet.com](notyet.com)
 
 <h3 align="left" style="color:blue;">Connect with me:</h3>
 <p align="left">
