@@ -36,10 +36,4 @@
 - <p>Simple flask app</p>
 
 <h3 align="left">Repositories:</h3>
-<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616988831/GitHub%20Profile/point_stjrju.svg" height="20" width="30" /> ~~this~~</a>
-
-
-<p>
-  I think you should use an
-`<addr>` element here instead.
-</p>
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616988831/GitHub%20Profile/point_stjrju.svg" height="20" width="30" />Atlas E-commerce</a>
