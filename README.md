@@ -37,7 +37,7 @@
 
 <h3 align="left">Repositories:</h3>
 <p align="left">
-<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990176/GitHub%20Profile/point_jwzf4b.svg" height="20" width="30" />Atlas E-commerce</a>
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Atlas E-commerce</a>
   
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990144/GitHub%20Profile/line_lalsqe.svg" height="100" width="30" /></a>
 
