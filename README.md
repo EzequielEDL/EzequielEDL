@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="150" />
 </p>
 <p float="center">
-<h1 align="center">Hey <img src="https://media.giphy.com/media/5hmgfdvimPl5NjTUU6/giphy.gif" width="50" />, I'm Eze <a href="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" height="40" width="50" /></a> </h1><h2>you can find me in </h2>
+<h1 align="center">Hey <img src="https://media.giphy.com/media/5hmgfdvimPl5NjTUU6/giphy.gif" width="50" />i'm Eze, <h2> you cand find me in</h2> <a href="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" height="40" width="50" /></a> </h1><h2>you can find me in </h2>
 
 <a href="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" height="40" width="50" /></a>
 <a href="https://www.behance.net/esequieldelgado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="https://www.behance.net/esequieldelgado" height="40" width="50" /></a>
