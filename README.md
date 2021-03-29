@@ -15,7 +15,6 @@
 
 </p>
 <h3 align="center">I am full stack developer, proactive person, committed to what I propose myself for the motivation of always learning new technologies and / or fields related to technologies.</h3>
-<h3>I am full stack developer, proactive person, committed to what I propose myself for the motivation of always learning new technologies and / or fields related to technologies.</h3>
 
 <a href="#" ><img align="center" src="https://media.giphy.com/media/3HG7JCV0QSVxWYzPAT/giphy.gif" width="40" /> You can see my portfolio here</a>
 
