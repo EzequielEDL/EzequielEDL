@@ -39,9 +39,13 @@
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
 <a href="https://ezequieledl.github.io/weather-app/" ><img align="center" src="https://i.ibb.co/Y3TQBDX/Screenshot-from-2021-03-22-09-58-04.png" width="500" /></a>
 
-<a href="https://github.com/EzequielEDL/inro-wallet-virtual/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Inro - Wallet Virtual</a>
+<a href="https://github.com/danieltkach/henry-bank/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Inro - Wallet Virtual</a>
 
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
+<a href="https://ezequieledl.github.io/weather-app/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1617085559/GitHub%20Profile/inro1_rerrrs.png" width="150" /></a>
+<a href="https://ezequieledl.github.io/weather-app/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1617085562/GitHub%20Profile/inro2_o83ypz.png" width="150" /></a>
+<a href="https://ezequieledl.github.io/weather-app/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1617085560/GitHub%20Profile/inro3_yex4zu.png" width="150" /></a>
+<a href="https://ezequieledl.github.io/weather-app/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1617085560/GitHub%20Profile/inro4_orll8b.png" width="150" /></a>
 
 <a href="https://github.com/EzequielEDL/weather-app/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Weather app </a>
 ![GitHub top language](https://img.shields.io/github/languages/top/EzequielEDL/weather-app?style=flat-square)
