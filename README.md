@@ -59,3 +59,6 @@
 
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
 <a href="https://ezequieledl.github.io/weather-app/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1617083705/GitHub%20Profile/simple-manage-orders_hzpybf.gif" width="500" /></a>
+
+<a href="https://github.com/EzequielEDL/some-desktop-apps" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Some python desktop apps </a>
+![GitHub top language](https://img.shields.io/github/languages/top/EzequielEDL/some-desktop-apps?style=flat-square)
