@@ -37,16 +37,16 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/EzequielEDL/atlas-e-commerce?style=flat-square)
 
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
-<a href="https://ezequieledl.github.io/weather-app/" ><img align="center" src="https://i.ibb.co/Y3TQBDX/Screenshot-from-2021-03-22-09-58-04.png" width="500" /></a>
+<a href="https://atlas-store.netlify.app/" ><img align="center" src="https://i.ibb.co/Y3TQBDX/Screenshot-from-2021-03-22-09-58-04.png" width="500" /></a>
 
 <a href="https://github.com/danieltkach/henry-bank/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Inro - Wallet Virtual</a>
 ![GitHub top language](https://img.shields.io/github/languages/top/danieltkach/henry-bank?style=flat-square)
 
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
-<a href="https://ezequieledl.github.io/weather-app/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1617085559/GitHub%20Profile/inro1_rerrrs.png" width="150" /></a>
-<a href="https://ezequieledl.github.io/weather-app/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1617085562/GitHub%20Profile/inro2_o83ypz.png" width="150" /></a>
-<a href="https://ezequieledl.github.io/weather-app/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1617085560/GitHub%20Profile/inro3_yex4zu.png" width="150" /></a>
-<a href="https://ezequieledl.github.io/weather-app/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1617085560/GitHub%20Profile/inro4_orll8b.png" width="150" /></a>
+<a href="https://github.com/danieltkach/henry-bank/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1617085559/GitHub%20Profile/inro1_rerrrs.png" width="150" /></a>
+<a href="https://github.com/danieltkach/henry-bank/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1617085562/GitHub%20Profile/inro2_o83ypz.png" width="150" /></a>
+<a href="https://github.com/danieltkach/henry-bank/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1617085560/GitHub%20Profile/inro3_yex4zu.png" width="150" /></a>
+<a href="https://github.com/danieltkach/henry-bank/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1617085560/GitHub%20Profile/inro4_orll8b.png" width="150" /></a>
 
 <a href="https://github.com/EzequielEDL/weather-app/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Weather app </a>
 ![GitHub top language](https://img.shields.io/github/languages/top/EzequielEDL/weather-app?style=flat-square)
@@ -58,7 +58,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/EzequielEDL/simple-manage-orders?style=flat-square)
 
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
-<a href="https://ezequieledl.github.io/weather-app/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1617083705/GitHub%20Profile/simple-manage-orders_hzpybf.gif" width="500" /></a>
+<a href="https://github.com/EzequielEDL/simple-manage-orders/" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1617083705/GitHub%20Profile/simple-manage-orders_hzpybf.gif" width="500" /></a>
 
 <a href="https://github.com/EzequielEDL/some-desktop-apps" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Some python desktop apps </a>
 ![GitHub top language](https://img.shields.io/github/languages/top/EzequielEDL/some-desktop-apps?style=flat-square)
