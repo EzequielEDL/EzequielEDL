@@ -19,6 +19,7 @@
 <a href="#" ><img align="center" src="https://media.giphy.com/media/3HG7JCV0QSVxWYzPAT/giphy.gif" width="40" /> You can see my portfolio here</a>
 
 ![Eze's github stats](https://github-readme-stats.vercel.app/api?username=EzequielEDL&show_icons=true&count_private=true&bg_color=13201D&icon_color=56D364&title_color=56D364&text_color=C9D1D9&hide_border=true&border_radius=16)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielEDL&layout=compact&bg_color=13201D&title_color=56D364&text_color=C9D1D9&hide_border=true&border_radius=16)
 
 <h3 align="left">Languages and Tools:</h3>
 
