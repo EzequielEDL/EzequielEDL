@@ -65,7 +65,5 @@
 <a href="https://github.com/EzequielEDL/some-desktop-apps" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Some python desktop apps </a>
 ![GitHub top language](https://img.shields.io/github/languages/top/EzequielEDL/some-desktop-apps?style=flat-square)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ezequieledl&label=Profile%20views&color=0e75b6&style=flat" alt="ezequieledl" /> </p>
-
 ![](https://hit.yhype.me/github/profile?user_id=64182808)
 
